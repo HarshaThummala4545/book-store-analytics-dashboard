@@ -23,8 +23,7 @@ https://your-streamlit-app-url.streamlit.app
 
 ## 📸 Dashboard Preview
 
-<img width="100%" src="https://via.placeholder.com/1200x600?text=Book+Store+Analytics+Dashboard">
-
+![Dashboard Preview](dashboard.png)
 ---
 
 ## ✨ Features
