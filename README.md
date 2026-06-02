@@ -171,12 +171,6 @@ Through this project I learned:
 
 ---
 
-## 💼 Resume Description
-
-Developed a Python-based Book Store Analytics Dashboard that scraped 1000+ book records using BeautifulSoup and Requests, performed data analysis with Pandas, and visualized insights through an interactive Streamlit dashboard featuring search, filtering, charts, and CSV export functionality.
-
----
-
 ## 👨‍💻 Author
 
 ### Harsha Sri Sai Thummala
